@@ -1,17 +1,32 @@
-# Demeanor
-
+ # Demeanor
 An e-commece app developed using flutter
 
+### Todo
 
-## Getting Started
+- ✓  App Structure
+- ✓   Connect with FireBase
+- ✓   Inital Working Check
+  - [ ]  Phase II Development
 
-This project is a starting point for a Flutter application.
+### In Progress
 
-A few resources to get you started if this is your first Flutter project:
+- [ ]  Phase II
+- [ ]  Phase III
+- [ ]  Phase IV
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Done ✓
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [x]  Create Repository 
+- [x]  Completed Design
+
+
+
+## Tech Stack
+
+**Client:** Flutter 
+
+**Server:** FireBase
+
+## Authors
+
+- [@shrivatssharma](https://github.com/ShrivatsSharma07)
