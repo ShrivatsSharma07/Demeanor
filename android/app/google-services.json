@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "431168011578",
+    "project_id": "denamor-e4aa4",
+    "storage_bucket": "denamor-e4aa4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431168011578:android:e3a93a7dd123d33e0f2403",
+        "android_client_info": {
+          "package_name": "com.example.denamor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431168011578-rvam01gc9mne6sk154dust9lh9n5ifqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIF1TZGszj3gBrCGluXa1Hc1hkmQU8izQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431168011578-rvam01gc9mne6sk154dust9lh9n5ifqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
