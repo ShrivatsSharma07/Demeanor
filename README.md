@@ -1,6 +1,8 @@
  # Demeanor
 An e-commece app developed using flutter
 
+![App Screenshot](https://github.com/ShrivatsSharma07/Demeanor/blob/master/Mockup.png)
+
 ### Todo
 
 - ✓  App Structure
