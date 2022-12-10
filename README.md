@@ -1,6 +1,6 @@
 # Demeanor
 
-An e-commece app developed usinf flutter
+An e-commece app developed using flutter
 
 
 ## Getting Started
