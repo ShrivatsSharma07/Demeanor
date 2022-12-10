@@ -25,7 +25,7 @@ An e-commece app developed using flutter
 
 **Client:** Flutter 
 
-**Server:** FireBase
+**Server:** FireBase Firestore
 
 ## Authors
 
