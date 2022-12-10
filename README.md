@@ -1,6 +1,7 @@
-# denamor
+# Demeanor
 
-E_commerce
+An e-commece app developed usinf flutter
+
 
 ## Getting Started
 
